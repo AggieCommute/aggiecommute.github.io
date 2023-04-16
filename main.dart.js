@@ -41148,7 +41148,7 @@ var $async$tN=A.a4(function(a,b){if(a===1)return A.a0(b,r)
 while(true)switch(s){case 0:o=p.OQ()
 n=t.N
 s=3
-return A.aa(A.aLw(A.mQ("http://127.0.0.1:5000/",0,null),o,A.aE(["Content-Type","application/json; charset=UTF-8"],n,n)),$async$tN)
+return A.aa(A.aLw(A.mQ("https://aggiecommute.up.railway.app",0,null),o,A.aE(["Content-Type","application/json; charset=UTF-8"],n,n)),$async$tN)
 case 3:m=b
 if(m.b===201){B.bf.P6(0,A.aKO(A.aID(m.e).c.a.h(0,"charset")).e5(0,m.w),null)
 q=new A.M0()
